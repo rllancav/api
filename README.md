@@ -150,9 +150,3 @@ Devuelve un objeto de la comuna seleccionada perteneciente a una provincia que a
 
 `GET /v1/regiones?limites=true`
 
-## Fuente de los datos
-
-- [Biblioteca del Congreso Nacional de Chile](https://www.bcn.cl/siit/mapas_vectoriales)
-- [OpenStreetMap](https://www.openstreetmap.org/)
-- [API de la División Politico Administrativa de Chile](https://apis.digital.gob.cl/dpa/#)
-"# api " 
