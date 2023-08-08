@@ -1,6 +1,3 @@
-# API de la División Político Administrativa de Chile con polígonos y centros
-
-Este proyecto es una recreación de la [API de la División Politico Administrativa de Chile](https://apis.digital.gob.cl/dpa/#) creada por la Unidad de Modernización y Gobierno Digital con la diferencia que esta API permite **devolver los polígonos** de cada división administrativa (regiones, provincias y comunas).
 
 ## Documentación
 
